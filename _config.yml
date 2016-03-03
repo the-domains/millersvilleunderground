@@ -1,7 +1,7 @@
 name: millersvilleunderground
 favicon: null
-layout_spectrum: 0.8392586086411029
-typography_spectrum: 0.6093245728407055
+layout_spectrum: 0.50022
+typography_spectrum: 0.49751
 title: A Jesus Movement.
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.22807963541708887
-  lightness: 0.7500253794714808
-  saturation: 0.09241690230555832
-  rhythmicContrast: 0.7663844015914947
+  brandStrength: 1
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
